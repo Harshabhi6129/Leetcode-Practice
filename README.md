@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
