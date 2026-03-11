@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1009-complement-of-base-10-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
