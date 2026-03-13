@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0036-valid-sudoku) |
+| [0383-ransom-note](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0036-valid-sudoku) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
