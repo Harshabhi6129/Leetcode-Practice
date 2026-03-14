@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0010-regular-expression-matching) |
+| [0392-is-subsequence](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Recursion
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
