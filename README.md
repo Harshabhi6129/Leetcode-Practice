@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0274-h-index) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0392-is-subsequence) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Recursion
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
