@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
