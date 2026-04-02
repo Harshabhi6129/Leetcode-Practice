@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0290-word-pattern) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [1622-fancy-sequence](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
