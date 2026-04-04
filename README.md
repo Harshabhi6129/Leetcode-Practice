@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [2751-robot-collisions](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
