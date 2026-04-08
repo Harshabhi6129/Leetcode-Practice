@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0125-valid-palindrome) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0289-game-of-life) |
 | [0657-robot-return-to-origin](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2075-decode-the-slanted-ciphertext) |
