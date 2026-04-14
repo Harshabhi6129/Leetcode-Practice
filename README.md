@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2463-minimum-total-distance-traveled](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2463-minimum-total-distance-traveled](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Recursion
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0274-h-index) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2463-minimum-total-distance-traveled](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2751-robot-collisions) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Union-Find
