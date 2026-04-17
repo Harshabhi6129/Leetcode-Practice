@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0383-ransom-note) |
+| [3488-closest-equal-element-queries](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Math
 |  |
