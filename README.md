@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2751-robot-collisions) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Union-Find
 |  |
@@ -367,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
