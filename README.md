@@ -359,12 +359,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Breadth-First Search
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Binary Tree
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Doubly-Linked List
 |  |
