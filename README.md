@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3643-flip-square-submatrix-vertically) |
+| [3660-jump-game-ix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3660-jump-game-ix) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3660-jump-game-ix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3660-jump-game-ix) |
 ## Recursion
 |  |
 | ------- |
