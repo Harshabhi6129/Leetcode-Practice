@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0189-rotate-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
