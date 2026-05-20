@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0399-evaluate-division) |
 | [0657-robot-return-to-origin](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0657-robot-return-to-origin) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0399-evaluate-division) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0399-evaluate-division) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0399-evaluate-division](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -436,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -471,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
