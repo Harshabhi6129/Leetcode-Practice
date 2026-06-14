@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0224-basic-calculator) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0146-lru-cache) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
