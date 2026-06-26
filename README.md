@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3660-jump-game-ix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3689-maximum-total-subarray-value-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0169-majority-element) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1622-fancy-sequence) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -538,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0207-course-schedule) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
