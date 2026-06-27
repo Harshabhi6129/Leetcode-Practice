@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0055-jump-game) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0077-combinations) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Design
