@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2573-find-the-string-with-lcp](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2751-robot-collisions) |
