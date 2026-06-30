@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0657-robot-return-to-origin](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0657-robot-return-to-origin) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0433-minimum-genetic-mutation) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Matrix
 |  |
 | ------- |
