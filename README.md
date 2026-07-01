@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3488-closest-equal-element-queries) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0399-evaluate-division) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3546-equal-sum-grid-partition-i) |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Backtracking
 |  |
@@ -516,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0909-snakes-and-ladders) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
