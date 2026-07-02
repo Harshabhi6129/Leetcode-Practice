@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3488-closest-equal-element-queries) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0399-evaluate-division) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Backtracking
 |  |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0909-snakes-and-ladders) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -563,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0399-evaluate-division) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Iterator
 |  |
 | ------- |
