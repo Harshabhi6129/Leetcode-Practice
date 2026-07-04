@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0399-evaluate-division) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0399-evaluate-division) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3620-network-recovery-pathways) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0909-snakes-and-ladders) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
