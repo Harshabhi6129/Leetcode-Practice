@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0190-reverse-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [1009-complement-of-base-10-integer](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1009-complement-of-base-10-integer) |
 ## Hash Table
