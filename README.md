@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0909-snakes-and-ladders](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0909-snakes-and-ladders) |
+| [1288-remove-covered-intervals](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1288-remove-covered-intervals](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
