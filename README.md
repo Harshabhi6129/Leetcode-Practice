@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/0077-combinations) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harshabhi6129/Leetcode-Practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Design
